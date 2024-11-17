@@ -1,16 +1,16 @@
-# SEED_HaCKETHON_PROJECT
-we will participate a open hackathon  name as SEED  , in this repo contain all the project info and reqirement files
-AI-Driven Predictive Healthcare Analytics for Early Disease Detection
-Early detection of diseases significantly improves patient outcomes, reduces healthcare costs, and enables timely interventions. With the growing availability of healthcare data, there is an opportunity to leverage AI/ML to predict the onset of diseases before they become critical. However, the challenge lies in developing models that can effectively analyse complex medical data while ensuring accuracy and reliability.
+# MANOJAVAM-The-AI-Health-Disease-Predictor
+MANOJAVAM is an AI-powered platform designed to predict potential health risks based on medical and lifestyle data. By analyzing key health metrics such as blood pressure, cholesterol levels, age, and lifestyle habits, the system offers personalized insights and recommendations to help individuals prevent chronic diseases like heart disease, hypertension, and cancer.
 
-Participants are tasked with developing an AI/ML-based software solution that predicts the likelihood of specific diseases (e.g., diabetes, cardiovascular diseases, cancer) based on patient data such as electronic health records (EHR), genetic information, and lifestyle factors.
-
-
-Key Objectives :
-Analyse historical patient data and identify patterns that correlate with the early stages of diseases.
-Provide personalised risk scores or predictive insights for individual patients.
-Ensure that the model is explainable and interpretable, allowing healthcare providers to understand and act on the predictions.
-Incorporate mechanisms to improve the model's generalizability across diverse patient populations.
-
-
-in future we will work on this project
+Features
+Health Risk Predictions: Leverages AI to predict the likelihood of serious health conditions based on user data.
+Personalized Insights: Provides tailored health recommendations to promote a healthier lifestyle.
+User-Friendly Interface: Simple and intuitive design that makes health data accessible to everyone.
+Data Security: Built with robust encryption to ensure user data privacy and security.
+Actionable Recommendations: Helps users make informed decisions about their health to prevent future complications.
+Technologies Used
+Artificial Intelligence (AI): Machine learning models for risk prediction.
+Python: For implementing the AI models and backend logic.
+Flask/Django: Web framework for building the platform.
+HTML/CSS/JavaScript: Frontend development for a responsive user interface.
+SQLite/MySQL: Database for storing user data securely.
+TensorFlow/PyTorch: For building and training predictive models.
