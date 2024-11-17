@@ -19,10 +19,10 @@ Artificial Intelligence (AI): Machine learning models for risk prediction.
 
 Python: For implementing the AI models and backend logic.
 
-Flask/Django: Web framework for building the platform.
+Flask: Web framework for building the platform.
 
 HTML/CSS/JavaScript: Frontend development for a responsive user interface.
 
 SQLite/MySQL: Database for storing user data securely.
 
-TensorFlow/PyTorch: For building and training predictive models.
+TensorFlow: For building and training predictive models.
